@@ -3,9 +3,9 @@
 > **Status:**  (adicione um "x" para completar cada nível)
 
 - [ ] Visualizado
-- [x] Pendente
+- [ ] Pendente
 - [ ] Enviado ao professor
-- [ ] Aprovado  
+- [x] Aprovado  
 
 > **Versão do termo .docx:** [baixar na atividade do Canvas]
 
@@ -37,8 +37,8 @@
 | Campo | Informação |
 | ------- | ----------- |
 | Título/Tema da aplicação | Sistema de Conversão de Voz para Texto para Auxílio na Comunicação de Pessoas com Deficiência Auditiva|
-| Público-alvo | Crianças e adolescentes com deficiência auditiva, além de professores e responsáveis que necessitam facilitar a comunicação no ambiente escolar.|
-| Nº estimado de usuários | Entre 50 e 500 usuários em ambiente escolar ou educacional.|
+| Público-alvo | Pessoas com deficiência auditiva ou surdez atendidos no CMAEE Dr. Tarso de Coimbra.|
+| Nº estimado de usuários | 15 usuários.|
 | Faixa etária do público | Entre 8 e 18 anos. |
 | Tecnologias previstas |Linguagem JavaScript ou Python, utilização de API de reconhecimento de voz da Google, banco de dados Firebase ou MySQL, interface web ou aplicação mobile.|
 | Hospedagem prevista | Servidor em nuvem utilizando serviços da Firebase, Vercel ou Netlify.|
