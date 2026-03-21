@@ -43,12 +43,12 @@
 | Público-alvo | Pessoas com deficiência auditiva ou surdez atendidos no CMAEE Dr. Tarso de Coimbra.|
 | Nº estimado de usuários | 15 usuários.|
 | Faixa etária do público | Entre 8 e 18 anos. |
-| Tecnologias previstas |Linguagem JavaScript ou Python, utilização de API de reconhecimento de voz da Google, banco de dados Firebase ou MySQL, interface web ou aplicação mobile.|
+| Tecnologias previstas |Linguagem JavaScript, API de reconhecimento de voz da Google, VLibras (widget de tradução para Libras), banco de dados Firebase, interface web responsiva.|
 | Hospedagem prevista | Servidor em nuvem utilizando serviços da Firebase, Vercel ou Netlify.|
 
 ### Breve descrição da aplicação e sua finalidade
 
-A aplicação tem como objetivo auxiliar crianças e adolescentes com deficiência auditiva na compreensão de falas em ambientes educacionais. O sistema irá captar a fala do professor ou de outras pessoas por meio do microfone do dispositivo e realizar a conversão automática da voz em texto, exibindo o conteúdo em tempo real na tela. Dessa forma, o usuário poderá acompanhar o que está sendo dito de maneira visual, facilitando a comunicação e promovendo maior inclusão no ambiente escolar. A aplicação também poderá armazenar histórico das conversas e permitir ajustes de visualização para melhorar a acessibilidade do usuário..
+A aplicação tem como objetivo auxiliar crianças e adolescentes com deficiência auditiva na compreensão de falas em ambientes educacionais. O sistema irá captar a fala do professor ou de outras pessoas por meio do microfone do dispositivo e realizar a conversão automática da voz em texto, exibindo o conteúdo em tempo real na tela. Adicionalmente, será integrado o VLibras, que traduz o texto transcrito para a Língua Brasileira de Sinais (Libras) por meio de um avatar animado, oferecendo uma segunda via de comunicação para os usuários que têm maior fluência em Libras. Dessa forma, o aluno poderá acompanhar o que está sendo dito tanto por meio do texto quanto pela representação em Libras, facilitando a comunicação e promovendo maior inclusão no ambiente escolar. A aplicação também poderá armazenar histórico das conversas e permitir ajustes de visualização para melhorar a acessibilidade do usuário.
 
 ## 4. Levantamento de Demandas da Comunidade
 
