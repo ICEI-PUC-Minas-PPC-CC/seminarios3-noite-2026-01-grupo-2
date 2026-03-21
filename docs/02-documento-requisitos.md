@@ -72,6 +72,7 @@ A aplicação é um sistema de conversão de voz para texto em tempo real, desti
 
 - [ ] Captura de áudio e transcrição em tempo real – Utilização do microfone do dispositivo e da API Google Speech-to-Text para converter a fala em texto com baixa latência.
 - [ ] Exibição do texto na tela – Apresentação clara e legível do texto transcrito, com atualização contínua e suporte a ajustes básicos de tamanho de fonte e contraste (botões grandes e identificáveis).
+- [ ] Integração com VLibras – Inclusão do widget VLibras para traduzir automaticamente o texto transcrito para Libras por meio de avatar animado, oferecendo uma segunda via de comunicação para os usuários surdos ou com maior fluência em Libras.
 - [ ] Controles simples de iniciar/parar captura – Interface com botões de destaque para o usuário iniciar e interromper o reconhecimento de voz, garantindo autonomia no uso.
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
