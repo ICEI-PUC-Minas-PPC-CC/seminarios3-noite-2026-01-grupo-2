@@ -50,25 +50,31 @@
 
 ### Ambiente de desenvolvimento
 
-| Editor de código: | VS Code |
-| Controle de versão: | Git + GitHub (branch main para produção, dev para desenvolvimento, branches por feature) |
-| Ferramentas: Figma (protótipo) ou desenho em folha, Firebase Console, Google Cloud Platform |
+<ul>
+  <li> Editor de código: VS Code</li>
+  <li> Controle de versão: Git + GitHub (branch main para produção, dev para desenvolvimento, branches por feature)</li>
+  <li> Ferramentas: Figma (protótipo) ou desenho em folha, Firebase Console, Google Cloud Platform</li>
+</ul>
 
 (Descreva o setup: editor de código, controle de versão, branches, etc.)
 
 ### Estratégia de testes
 
-| Testes manuais de usabilidade com a comunidade | (sprint 1 e validações – Gabriel) |
-| Testes de latência da transcrição | (cronometragem – Daniel) |
-| Testes de acessibilidade | (verificador de contraste, navegação por teclado – Wagner) |
+<ul>
+  <li> Testes manuais de usabilidade com a comunidade (sprint 1 e validações – Gabriel)</li>
+  <li> Testes de latência da transcrição (cronometragem – Daniel)</li>
+  <li> Testes de acessibilidade (verificador de contraste, navegação por teclado – Wagner)</li>
+</ul>
 
 (Como o grupo vai testar a aplicação antes da entrega?)
 
 ### Estratégia de deploy
 
-| Front-end: | Vercel (deploy contínuo via GitHub) |
-| Back-end/Firebase: | Firebase Hosting + Firestore + Cloud Functions |
-| Domínio: | Subdomínio gratuito (vercel.app) ou customizado se disponível |
+<ul>
+  <li> Front-end: Vercel (deploy contínuo via GitHub)</li>
+  <li> Back-end/Firebase: Firebase Hosting + Firestore + Cloud Functions</li>
+  <li> Domínio: Subdomínio gratuito (vercel.app) ou customizado se disponível</li>
+</ul>
 
 (Onde e como a aplicação será hospedada?)
 
