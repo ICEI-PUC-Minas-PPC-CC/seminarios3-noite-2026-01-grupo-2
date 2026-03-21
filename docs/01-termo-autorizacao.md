@@ -18,7 +18,10 @@
 | Nome do Grupo | Krome Angels|
 | Integrantes | Daniel Dias de Carvalho Santos, Gabriel Araújo Bernardes, Wagner Oliveira Claudiano |
 | E-mail de contato | gabrielaraujoojuara@gmail.com |
-| Telefone de contato | (35) 99807-7826 |
+| E-mail de contato | wagneroliveira2395@gmail.com |
+| Telefone de contato | Daniel: (35) 99814-9028 |
+| Telefone de contato | Gabriel: (35) 99807-7826 |
+| Telefone de contato | Wagner: (35) 99720-2824 |
 
 ## 2. Dados da Comunidade / Instituição Parceira
 
@@ -26,9 +29,9 @@
 | ------- | ----------- |
 | Nome da instituição | Tarso de Coimbra |
 | Endereço | R. Mario Xandó de Oliveira, 2 - São Geraldo, Poços de Caldas - MG, 37701-335|
-| Nome do responsável | Harison Herman Silva  |
-| Cargo/Função | Professor |
-| Telefone ou e-mail da instituição |harison@pucpcaldas.br |
+| Nome do responsável | Fabiana  |
+| Cargo/Função | Professora |
+| Telefone ou e-mail da instituição | (35) 3697-2197 |
 
 > **Nota:** O professor responsável pela disciplina poderá entrar em contato com a comunidade/instituição acima indicada para fins de validação das informações, acompanhamento do desenvolvimento, ajustes no planejamento e alinhamentos necessários à entrega do software.
 
@@ -49,15 +52,13 @@ A aplicação tem como objetivo auxiliar crianças e adolescentes com deficiênc
 
 ## 4. Levantamento de Demandas da Comunidade
 
-(Descreva como as demandas foram levantadas — reuniões presenciais, reuniões online, conversa com responsável, questionário, etc. — e como a aplicação proposta atende a essas demandas.)
+A demanda apresentada pela comunidade é de inserir/integrar os alunos surdos, e com deficiência auditiva em aulas desenvolvidas para ouvintes.
 
 ### Registro de contatos com a comunidade
 
 | Data | Forma de contato | Resumo do que foi tratado |
 | ------ | ----------------- | -------------------------- |
-| | | |
-| | | |
-| | | |
+| 06/03/2026 | Microsoft Teams | Reunião com equipe pedagógica para levantamento de requisitos: identificação do perfil dos alunos, desafios de comunicação em sala de aula, expectativas de acessibilidade e validação da proposta de conversão de voz para texto. |
 
 ## 5. Agendamento da Entrega Presencial
 
