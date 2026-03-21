@@ -1,23 +1,23 @@
 # 02 — Documento de Requisitos do Software
 
-> **Grupo:** *(preencher)*  
-> **Aplicação:** *(preencher)*  
-> **Comunidade:** *(preencher)*
+> **Grupo:** Krome Angels (Grupo 2)
+> **Aplicação:** VoxScript  
+> **Comunidade:** Crianças e adolescentes com deficiência auditiva atendidos no CMAEE Dr. Tarso de Coimbra
 
 ---
 
 ## 1. Visão Geral
 
-(Descreva em poucas frases o que é a aplicação, para quem ela é destinada e qual problema ela resolve.)
+A aplicação é um sistema de conversão de voz para texto em tempo real, destinado a crianças e adolescentes com deficiência auditiva atendidos no CMAEE Dr. Tarso de Coimbra. Seu objetivo é facilitar a comunicação no ambiente educacional, transformando a fala do professor em texto exibido na tela, promovendo inclusão e autonomia por meio do acesso visual ao conteúdo falado.
 
 ## 2. Público-Alvo
 
 | Campo | Informação |
 | ------- | ----------- |
-| Perfil dos usuários | |
-| Faixa etária | |
-| Necessidades de acessibilidade | |
-| Nível de familiaridade com tecnologia | |
+| Perfil dos usuários | Crianças e adolescentes com deficiência auditiva ou surdez, estudantes atendidos no CMAEE Dr. Tarso de Coimbra, que necessitam de apoio visual para acompanhar a comunicação oral em ambiente educacional. |
+| Faixa etária | Entre 8 e 18 anos. |
+| Necessidades de acessibilidade | Interface visual de alta legibilidade, com texto ampliado, contraste adequado, uso de ícones e elementos gráficos intuitivos, botões de fácil interação e possibilidade de ajustes personalizados (tamanho da fonte, cores, histórico de conversas). |
+| Nível de familiaridade com tecnologia | Variável - os usuários estão inseridos em um ambiente institucional com acesso a dispositivos digitais, mas a interface deve ser projetada com baixa complexidade, priorizando a simplicidade e a usabilidade visual para garantir autonomia independentemente do nível de experiência prévia. |
 
 > **Lembrete (Tarso de Coimbra):** Os usuários podem ter deficiência auditiva/surdez. A interface deve ser **visual, intuitiva e de baixa complexidade**. Priorize elementos visuais (imagens, ícones, cores) sobre texto extenso.
 
@@ -25,11 +25,11 @@
 
 | ID | Requisito | Prioridade | Origem da demanda |
 | ---- | ---------- | :----------: | ------------------ |
-| RF01 | | *(Alta/Média/Baixa)* | *(Reunião com a comunidade em DD/MM)* |
-| RF02 | | | |
-| RF03 | | | |
-| RF04 | | | |
-| RF05 | | | |
+| RF01 | Captar o áudio do ambiente por meio do microfone do dispositivo e converter a fala em texto em tempo real utilizando uma API de reconhecimento de voz (Google Speech-to-Text ou similar). | Alta | Reunião com a comunidade (CMAEE Dr. Tarso de Coimbra) em 10/03/2026 |
+| RF02 | Exibir o texto transcrito na interface de forma clara, com atualização em tempo real, garantindo legibilidade imediata para o usuário. | Alta | Reunião com a comunidade (CMAEE Dr. Tarso de Coimbra) em 10/03/2026 |
+| RF03 | Disponibilizar opções de ajuste de acessibilidade na interface, incluindo controle de tamanho da fonte, seleção de cores de alto contraste e modo de exibição noturno. | Média | Reunião com a comunidade (CMAEE Dr. Tarso de Coimbra) em 10/03/2026 |
+| RF04 | Armazenar em banco de dados o histórico das transcrições realizadas, associando cada sessão a data, horário e, quando aplicável, à identificação do contexto (ex.: aula, professor). | Média | Reunião com a comunidade (CMAEE Dr. Tarso de Coimbra) em 10/03/2026 |
+| RF05 | Permitir que o usuário visualize e pesquise o histórico de transcrições armazenadas, com filtros por data e palavra-chave, para revisão de conteúdos passados. | Baixa | Reunião com a comunidade (CMAEE Dr. Tarso de Coimbra) em 10/03/2026 |
 
 ## 4. Requisitos Não Funcionais
 
@@ -38,28 +38,28 @@
 | RNF01 | A aplicação deve ser acessível via navegador web | Acessibilidade |
 | RNF02 | A interface deve ser simples e intuitiva | Usabilidade |
 | RNF03 | A aplicação deve funcionar em dispositivos móveis | Compatibilidade |
-| RNF04 | | |
-| RNF05 | | |
+| RNF04 | O sistema deve transcrever a fala com baixa latência, não ultrapassando 2 segundos entre a fala e a exibição do texto na tela | Performance |
+| RNF05 | Os dados de histórico devem ser armazenados de forma segura, garantindo a privacidade das informações dos usuários, em conformidade com a LGPD | Segurança / Privacidade |
 
 ## 5. Requisitos de Acessibilidade
 
-- [ ] Interface predominantemente visual (ícones, cores, imagens)
-- [ ] Textos curtos e objetivos
-- [ ] Botões grandes e identificáveis
-- [ ] Contraste adequado de cores
+- [x] Interface predominantemente visual (ícones, cores, imagens)
+- [x] Textos curtos e objetivos
+- [x] Botões grandes e identificáveis
+- [x] Contraste adequado de cores
 - [ ] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
-- [ ] Sem dependência de áudio para funcionalidades essenciais
+- [x] Sem dependência de áudio para funcionalidades essenciais
 - [ ] Outro: *(especificar)*
 
 ## 6. Tecnologias Escolhidas
 
 | Componente | Tecnologia |
 | ----------- | ----------- |
-| Front-end | |
-| Back-end (se houver) | |
-| Banco de dados (se houver) | |
-| Hospedagem | |
-| Outras ferramentas | |
+| Front-end | HTML5, CSS3 e JavaScript (com possibilidade de uso do framework React para maior organização da interface) |
+| Back-end (se houver) | Firebase Cloud Functions (serverless) para gerenciar chamadas seguras à API e autenticação |
+| Banco de dados (se houver) | Firebase Firestore (banco de dados NoSQL em tempo real) |
+| Hospedagem | Vercel (para o front-end) ou Firebase Hosting (integração nativa com o ecossistema Firebase) |
+| Outras ferramentas | Google Speech-to-Text API (reconhecimento de voz), Git/GitHub para versionamento, Figma para prototipagem (ou desenhos no papel) |
 
 ## 7. Protótipo / Wireframes
 
@@ -69,11 +69,11 @@
 
 (Quais funcionalidades compõem a versão mínima que pode ser entregue à comunidade?)
 
-- [ ] *(Funcionalidade 1)*
-- [ ] *(Funcionalidade 2)*
-- [ ] *(Funcionalidade 3)*
+- [ ] Captura de áudio e transcrição em tempo real – Utilização do microfone do dispositivo e da API Google Speech-to-Text para converter a fala em texto com baixa latência.
+- [ ] Exibição do texto na tela – Apresentação clara e legível do texto transcrito, com atualização contínua e suporte a ajustes básicos de tamanho de fonte e contraste (botões grandes e identificáveis).
+- [ ] Controles simples de iniciar/parar captura – Interface com botões de destaque para o usuário iniciar e interromper o reconhecimento de voz, garantindo autonomia no uso.
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
-- *(Funcionalidade extra 1)*
-- *(Funcionalidade extra 2)*
+- Armazenamento e visualização de histórico – Persistência das transcrições em banco de dados (Firestore) com opção de listagem por data e palavra-chave, permitindo que o usuário revise conteúdos de aulas anteriores.
+- Personalização avançada de acessibilidade – Implementação completa dos ajustes de tamanho de fonte, contraste (incluindo modo noturno) e layout responsivo com salvamento das preferências no dispositivo ou no perfil do usuário.
