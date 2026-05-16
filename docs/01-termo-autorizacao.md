@@ -15,11 +15,10 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | Krome Angels|
-| Integrantes | Daniel Dias de Carvalho Santos, Gabriel Araújo Bernardes, Wagner Oliveira Claudiano |
+| Nome do Grupo | Grupo 2|
+| Integrantes | Gabriel Araújo Bernardes, Wagner Oliveira Claudiano |
 | E-mail de contato | gabrielaraujoojuara@gmail.com |
 | E-mail de contato | wagneroliveira2395@gmail.com |
-| Telefone de contato | Daniel: (35) 99814-9028 |
 | Telefone de contato | Gabriel: (35) 99807-7826 |
 | Telefone de contato | Wagner: (35) 99720-2824 |
 
