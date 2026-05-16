@@ -17,9 +17,11 @@
 
 ---
 
-## 🎯 Software a Ser Desenvolvido
+## 🎯 Software a Ser Desenvolvido: VoxScript
 
-(Descreva brevemente a aplicação que será desenvolvida e seu objetivo.)
+O VoxScript é uma aplicação web de transcrição de voz para texto em tempo real projetada especificamente para promover a acessibilidade pedagógica e a inclusão de crianças e adolescentes com deficiência auditiva atendidos no CMAEE Dr. Tarso de Coimbra.
+
+O objetivo do sistema é converter o fluxo de fala contínuo dos professores em uma interface visual de alta legibilidade. O grande diferencial do software é o seu motor de Processamento de Linguagem Natural (PLN): o texto bruto capturado pelo microfone passa por uma camada de Inteligência Artificial que analisa o contexto semântico e sintático para aplicar vírgulas, pontos de interrogação e letras maiúsculas corretamente. Em seguida, o texto estruturado alimenta de forma automatizada o widget do VLibras, permitindo que os estudantes acompanhem a explicação em sala de aula tanto pela leitura em português quanto pela Língua Brasileira de Sinais (LIBRAS) por meio de um avatar digital animado.
 
 ---
 
@@ -55,13 +57,15 @@
 
 ---
 
-## 🛠️ Tecnologias Sugeridas
+## 🛠️ ## 🛠️ Tecnologias Utilizadas
 
-O grupo tem liberdade de escolha. Sugestões do professor:
+A stack de engenharia do projeto foi selecionada para garantir baixíssima latência, escalabilidade em nuvem e total segurança de dados (Privacy by Design) para o ambiente escolar:
 
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end (opcional):** Node.js, Python (Flask/Streamlit), etc.
-- **Hospedagem gratuita:** Streamlit App, Vercel, Netlify, GitHub Pages, Railway
+- **Front-end:** HTML5, CSS3, JavaScript (Vanilla ES6) e Bootstrap 5 para design responsivo.
+- **Back-end Serverless:** Node.js integrado às Vercel Serverless Functions (na pasta `/api`) para ocultar chaves privadas e processar requisições sem persistência de dados em disco.
+- **Inteligência Artificial:** Modelo Gemini 1.5 Flash API (Google AI Studio) por meio de engenharia de prompts voltada à análise léxica e correção sintática.
+- **Acessibilidade & Voz:** `Web Speech API` (captura acústica local) e Widget de Tradução Digital VLibras (LAPI/UFPB).
+- **Hospedagem em Nuvem:** Vercel (Hospedagem unificada com CI/CD acoplado ao GitHub).
 
 ---
 
