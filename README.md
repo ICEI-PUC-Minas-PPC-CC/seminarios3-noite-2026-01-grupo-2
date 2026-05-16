@@ -10,9 +10,10 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| **Nome do Grupo** | Crome Angels |
-| **Integrantes** | Daniel Dias de Carvalho Santos, Gabriel de Araújo Bernardes e Wagner Oliveira Claudiano |
+| **Nome do Grupo** | FGrupo 2 |
+| **Integrantes** | Gabriel de Araújo Bernardes, Wagner Oliveira Claudiano |
 | **E-mail de contato** | gabrielaraujoojuara@gmail.com |
+| **E-mail de contato** | wagneroliveira2395@gmail.com |
 | **Comunidade parceira** | Tarso Coimbra |
 
 ---
