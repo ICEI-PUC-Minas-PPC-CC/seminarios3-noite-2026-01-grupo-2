@@ -10,7 +10,7 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| **Nome do Grupo** | FGrupo 2 |
+| **Nome do Grupo** | Grupo 2 |
 | **Integrantes** | Gabriel de Araújo Bernardes, Wagner Oliveira Claudiano |
 | **E-mail de contato** | gabrielaraujoojuara@gmail.com |
 | **E-mail de contato** | wagneroliveira2395@gmail.com |
