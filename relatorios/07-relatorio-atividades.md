@@ -25,7 +25,7 @@
 | 29/04/2026 a 20/05/2026 | Desenvolvimento — Sprint 2 | Refatoração da interface baseada nos feedbacks coletados, desenvolvimento das funcionalidades de edição de texto transcrito, salvamento em localStorage e comandos de voz para formatação. |
 | 21/05/2026 a 03/06/2026 | Testes e ajustes | Execução de testes de usabilidade em diferentes navegadores e dispositivos móveis, correção de bugs relacionados a pausas longas no áudio e polimento visual final da aplicação. |
 | 05/06/2026 | Deploy em nuvem | Configuração e deploy automatizado da aplicação na plataforma Netlify através do repositório GitHub, garantindo o acesso público estável e seguro via HTTPS. |
-| 10/06/2026 | **Entrega presencial do software** | Visita presencial à comunidade Tarso de Coimbra para instalação simbólica, treinamento prático dos usuários locais, coleta final de depoimentos e assinatura do termo de recebimento. |
+| 11/06/2026 | **Entrega presencial do software** | Visita presencial à comunidade Tarso de Coimbra para instalação simbólica, treinamento prático dos usuários locais, coleta final de depoimentos e assinatura do termo de recebimento. |
 | 13/06/2026 | Preenchimento dos relatórios | Consolidação dos resultados qualitativos, tratamento das evidências visuais e redação deste relatório base para inserção no sistema oficial de Atividades Práticas Coletivas (APC). |
 
 ## Descrição das Atividades Realizadas
