@@ -25,7 +25,7 @@
 | 29/04/2026 a 20/05/2026 | Desenvolvimento — Sprint 2 | Refatoração da interface baseada nos feedbacks coletados, desenvolvimento das funcionalidades de edição de texto transcrito, salvamento em localStorage e comandos de voz para formatação. |
 | 21/05/2026 a 03/06/2026 | Testes e ajustes | Execução de testes de usabilidade em diferentes navegadores e dispositivos móveis, correção de bugs relacionados a pausas longas no áudio e polimento visual final da aplicação. |
 | 05/06/2026 | Deploy em nuvem | Configuração e deploy automatizado da aplicação na plataforma Netlify através do repositório GitHub, garantindo o acesso público estável e seguro via HTTPS. |
-| 10/06/2026 | **Entrega presencial do software** | Visita presencial à comunidade Tarso de Coimbra para instalação simbólica, treinamento prático dos usuários locais, coleta final de depoimentos e assinatura do termo de recebimento. |
+| 11/06/2026 | **Entrega presencial do software** | Visita presencial à comunidade Tarso de Coimbra para instalação simbólica, treinamento prático dos usuários locais, coleta final de depoimentos e assinatura do termo de recebimento. |
 | 13/06/2026 | Preenchimento dos relatórios | Consolidação dos resultados qualitativos, tratamento das evidências visuais e redação deste relatório base para inserção no sistema oficial de Atividades Práticas Coletivas (APC). |
 
 ## Descrição das Atividades Realizadas
@@ -34,7 +34,7 @@ O projeto de extensão universitária desenvolvido ao longo deste semestre letiv
 
 ### Levantamento de demandas
 
-O contato com a comunidade Tarso de Coimbra deu-se de forma híbrida (presencial e remota), totalizando duas reuniões estruturadas com a coordenação local. Durante o diagnóstico, identificou-se que a principal dificuldade operacional residia no registro manual de atas de reuniões comunitárias, o que demandava excessivo tempo pós-evento e frequentemente gerava perdas de informações cruciais ou atrasos na divulgação das decisões para os moradores. A demanda central estabelecida foi uma ferramenta simples, leve, sem necessidade de cadastro complexo e acessível via smartphones e computadores antigos, capaz de converter a fala dos oradores em texto editável em tempo real.
+O contato com a comunidade Tarso de Coimbra deu-se de forma remota, por reunião no aplicativo Teams, estruturada com a coordenação local. Durante o diagnóstico, identificou-se que a principal dificuldade operacional residia no registro manual de atas de reuniões comunitárias, o que demandava excessivo tempo pós-evento e frequentemente gerava perdas de informações cruciais ou atrasos na divulgação das decisões para os alunos. A demanda central estabelecida foi uma ferramenta simples, leve, sem necessidade de cadastro complexo e acessível via smartphones e computadores antigos, capaz de converter a fala dos oradores em texto editável em tempo real.
 
 ### Desenvolvimento
 
@@ -47,7 +47,7 @@ O trabalho foi estruturado sob metodologia ágil adaptada em duas Sprints princi
 
 ### Entrega
 
-A entrega oficial ocorreu presencialmente no dia 10 de junho de 2026, na sede da associação comunitária. A sessão contou com a participação ativa de membros da diretoria e moradores locais. Realizou-se uma oficina prática de capacitação, onde os presentes testaram a ferramenta diretamente em seus dispositivos móveis. A recepção foi amplamente positiva; os usuários elogiaram a simplicidade do design de tela única e a ausência de barreiras de login, o que viabiliza o uso imediato por indivíduos de qualquer faixa etária ou nível de letramento digital.
+A entrega oficial ocorreu presencialmente no dia 11 de junho de 2026, no laboratório 6 da universidade Puc Minas Poços de Caldas, MG. A sessão contou com a participação ativa de membros da escola Tarso de Coimbra. Realizou-se uma oficina prática de capacitação. A recepção foi amplamente positiva; os usuários elogiaram a simplicidade do design de tela única e a ausência de barreiras de login, o que viabiliza o uso imediato por indivíduos de qualquer faixa etária ou nível de letramento digital no auxílio as atividades dos alunos da Tarso de Coimbra.
 
 ### Resultados
 
@@ -62,7 +62,7 @@ A aplicação atendeu plenamente a todos os requisitos validados. O VoxScript en
 - [x] Fotos salvas em `evidencias/fotos/`
 
 <div align="center">
-  <img src="[INSIRA_AQUI_O_LINK_DO_GOOGLE_DRIVE_DA_FOTO_1](https://drive.google.com/file/d/1yuSfpAbGOOjg8g_XdFtBHtax4j3jJPTs/view?usp=drive_link)" alt="Foto da entrega presencial do VoxScript para a coordenação" width="100%" />
+  <img src="https://drive.google.com/file/d/1yuSfpAbGOOjg8g_XdFtBHtax4j3jJPTs/view?usp=drive_link" alt="Foto da entrega presencial do VoxScript para a coordenação" width="100%" />
   <p><em>Figura 1: Integrantes do grupo ministrando a oficina prática e o treinamento de uso do VoxScript na sede da comunidade.</em></p>
 </div>
 
@@ -73,12 +73,12 @@ A aplicação atendeu plenamente a todos os requisitos validados. O VoxScript en
 - [x] Prints salvos em `evidencias/prints/`
 
 <div align="center">
-  <img src="[INSIRA_AQUI_O_LINK_DO_GOOGLE_DRIVE_DO_PRINT_1](https://drive.google.com/file/d/1LO-Mf9QdSTrdE1pbu_AfIl-B96yT_SY2/view?usp=drive_link)" alt="Painel principal da aplicação VoxScript" width="100%" />
+  <img src="https://drive.google.com/file/d/1LO-Mf9QdSTrdE1pbu_AfIl-B96yT_SY2/view?usp=drive_link" alt="Painel principal da aplicação VoxScript" width="100%" />
   <p><em>Figura 3: Print da interface limpa e intuitiva do VoxScript, exibindo os botões de controle de captura e a área de exibição de texto.</em></p>
 </div>
 
 <div align="center">
-  <img src="[INSIRA_AQUI_O_LINK_DO_GOOGLE_DRIVE_DO_PRINT_2](https://drive.google.com/file/d/1kBEu0tKzOBUJJQUchmbIZX1fcKtotT40/view?usp=drive_link)" alt="Funcionalidade de edição de texto e cópia rápida" width="100%" />
+  <img src="https://drive.google.com/file/d/1kBEu0tKzOBUJJQUchmbIZX1fcKtotT40/view?usp=drive_link" alt="Funcionalidade de edição de texto e cópia rápida" width="100%" />
   <p><em>Figura 4: Demonstração da caixa de edição de texto ativa, permitindo ajustes manuais e exportação imediata com um clique.</em></p>
 </div>
 
