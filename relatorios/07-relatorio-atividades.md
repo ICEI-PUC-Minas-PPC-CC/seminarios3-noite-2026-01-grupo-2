@@ -8,12 +8,12 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | |
-| Integrantes participantes | |
+| Nome do Grupo | Grupo 2 |
+| Integrantes participantes | Wagner Oliveira; Gabriel Araújo|
 | Disciplina | Seminários III |
-| Comunidade atendida | |
-| Software desenvolvido | |
-| URL da aplicação (se hospedada) | |
+| Comunidade atendida | Tarso de Coimbra|
+| Software desenvolvido | VoxScript |
+| URL da aplicação: https://voxscript1.netlify.app/ | |
 
 ## Cronograma de Desenvolvimento
 
