@@ -1,20 +1,26 @@
-# Prints de Tela
+# Prints de Tela da Aplicação — VoxScript
 
-# Prints de Tela
+Este arquivo contém as evidências visuais das principais interfaces e funcionalidades desenvolvidas na aplicação **VoxScript** para o projeto de extensão em **Seminários III** (PUC Minas).
 
-Abaixo estão apresentados os registros visuais das principais interfaces e funcionalidades desenvolvidas na aplicação VoxScript.
+---
+
+## 1. Interface Principal
+O painel inicial foi projetado com foco em acessibilidade e usabilidade limpa, permitindo que qualquer usuário inicie a transcrição de forma imediata e sem barreiras de login.
 
 <div align="center">
-  <img src="aplicacao_web1.png" alt="Print da tela principal do VoxScript" width="48%" style="border-radius: 8px; border: 1px solid #ddd;" />
-  &nbsp;
-  <img src="aplicacao_web2.png" alt="Print demonstrando a transcrição e pontuação ativadas" width="48%" style="border-radius: 8px; border: 1px solid #ddd;" />
+  <img src="https://drive.google.com/uc?export=view&id=1LO-Mf9QdSTrdE1pbu_AfIl-B96yT_SY2" alt="Painel principal da aplicação VoxScript" width="100%" />
+  <p><em>Figura 1: Layout limpo e intuitivo do VoxScript, destacando os botões de controle de captura e a área central de exibição de texto.</em></p>
 </div>
 
-<p align="center">
-  <em>Figura 1 (Esquerda): Interface inicial com botões de controle. Figura 2 (Direita): Demonstração do reconhecimento de voz e pontuação automática aplicados.</em>
-</p>
+---
 
-Coloque aqui os prints de tela da aplicação desenvolvida.
+## 2. Ferramentas de Edição e Cópia Rápida
+A área de transcrição permite ajustes manuais em tempo real para correções ortográficas e conta com um botão de cópia rápida para otimizar o fluxo de trabalho burocrático na redação de atas.
 
-> **Exemplos:** tela inicial, telas de funcionalidades principais, tela de cadastro, resultados, etc.
-> Estes prints serão anexados ao relatório enviado na atividade do Canvas.
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1kBEu0tKzOBUJJQUchmbIZX1fcKtotT40" alt="Funcionalidade de edição de texto e cópia rápida" width="100%" />
+  <p><em>Figura 2: Demonstração da caixa de texto ativa para edição manual e botões utilitários de exportação.</em></p>
+</div>
+
+---
+*Os links foram convertidos estruturalmente para garantir a renderização direta no GitHub ou em qualquer leitor de Markdown após o commit.*
