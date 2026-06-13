@@ -43,7 +43,7 @@
 - [ ] Plano B preparado (versão offline, se possível)
 - [x] Transporte/deslocamento do grupo planejado
 - [x] Todos os integrantes confirmados para o dia
-- [x]**Entrega realizada**
+- [x] Entrega realizada
 - [x] Fotos registradas (mínimo 10 fotos variadas)
 - [x] Software demonstrado e explicado aos usuários
 
