@@ -62,7 +62,7 @@ A aplicação atendeu plenamente a todos os requisitos validados. O VoxScript en
 - [x] Fotos salvas em `evidencias/fotos/`
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yuSfpAbGO0jg8g_XdFtBHTax4j3jJPTs" alt="Foto da entrega presencial do VoxScript para a coordenação" width="100%" />
+  <img src="[https://drive.google.com/uc?export=view&id=1yuSfpAbGO0jg8g_XdFtBHTax4j3jJPTs](https://drive.google.com/file/d/1yuSfpAbGOOjg8g_XdFtBHtax4j3jJPTs/view?usp=sharing)" alt="Foto da entrega presencial do VoxScript para a coordenação" width="100%" />
   <p><em>Figura 1: Integrantes do grupo ministrando a oficina prática e o treinamento de uso do VoxScript na sede da comunidade.</em></p>
 </div>
 
@@ -73,12 +73,12 @@ A aplicação atendeu plenamente a todos os requisitos validados. O VoxScript en
 - [x] Prints salvos em `evidencias/prints/`
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1LO-Mf9QdSTrdE1pbu_AfIl-B96yT_SY2" alt="Painel principal da aplicação VoxScript" width="100%" />
+  <img src="[https://drive.google.com/file/d/1LO-Mf9QdSTrdE1pbu_AfIl-B96yT_SY2](https://drive.google.com/file/d/1LO-Mf9QdSTrdE1pbu_AfIl-B96yT_SY2/view?usp=sharing)" alt="Painel principal da aplicação VoxScript" width="100%" />
   <p><em>Figura 3: Print da interface limpa e intuitiva do VoxScript, exibindo os botões de controle de captura e a área de exibição de texto.</em></p>
 </div>
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1kBEu0tKzOBUJJQUchmbIZX1fcKtotT40" alt="Funcionalidade de edição de texto e cópia rápida" width="100%" />
+  <img src="[https://drive.google.com/file/d/1kBEu0tKzOBUJJQUchmbIZX1fcKtotT40](https://drive.google.com/file/d/1kBEu0tKzOBUJJQUchmbIZX1fcKtotT40/view?usp=sharing)" alt="Funcionalidade de edição de texto e cópia rápida" width="100%" />
   <p><em>Figura 4: Demonstração da caixa de edição de texto ativa, permitindo ajustes manuais e exportação imediata com um clique.</em></p>
 </div>
 
