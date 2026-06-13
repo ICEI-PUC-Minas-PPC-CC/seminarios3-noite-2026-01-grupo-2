@@ -16,7 +16,7 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data | 24/02/2026 |
+| Data | 18/02/2026 |
 | Forma de contato | Online (Microsoft Teams) |
 | Participantes do grupo | Wagner Oliveira e Gabriel Araújo |
 | Participantes da comunidade | Coordenação Pedagógica e Direção da escola Tarso de Coimbra |
@@ -34,46 +34,10 @@ Ficou acordada a realização de uma nova reunião focada especificamente no map
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data | 03/03/2026 |
-| Forma de contato | Online (Microsoft Teams) |
-| Participantes do grupo | Wagner Oliveira e Gabriel Araújo |
-| Participantes da comunidade | Equipe de Coordenação e Professores da Tarso de Coimbra |
-| Objetivo do contato | Levantamento detalhado de demandas operacionais e elicitação de requisitos do sistema. |
-
-**Resumo do que foi tratado:**
-Identificou-se que o principal gargalo de produtividade está centrado no registro manual de extensas atas de reuniões pedagógicas e conselhos de classe. Esse processo manual demanda demasiado tempo pós-evento e acaba gerando atrasos crônicos na consolidação e na divulgação formal das decisões para o auxílio e acompanhamento das atividades dos alunos. A coordenação sugeriu uma ferramenta direta de transcrição de voz para texto, enfatizando que o sistema deve ser extremamente simples, leve e sem exigências de cadastros ou telas de login para mitigar barreiras tecnológicas.
-
-**Encaminhamentos:**
-O grupo assumiu o compromisso de projetar a arquitetura da aplicação cliente (VoxScript) com base na Web Speech API nativa e confeccionar wireframes de baixa fidelidade para as primeiras validações.
-
----
-
-### Contato #3
-
-| Campo | Informação |
-| ------- | ----------- |
-| Data | 28/04/2026 |
-| Forma de contato | Presencial (Laboratório de Informática 3 da PUC Minas) |
-| Participantes do grupo | Wagner Oliveira |
-| Participantes da comunidade | Coordenador Geral da Tarso de Coimbra |
-| Objetivo do contato | Apresentação do protótipo inicial funcional (Sprint 1) e coleta de feedback intermediário. |
-
-**Resumo do que foi tratado:**
-Demonstração em tempo real da interface em HTML5/CSS3 integrada ao script JavaScript inicial de captura contínua de áudio. O protótipo provou-se capaz de converter a fala em strings de texto diretamente na tela. O coordenador utilizou o sistema e propôs melhorias fundamentais de ergonomia: aumentar o tamanho das fontes e o contraste visual das cores de fundo para acessibilidade e, muito importante, substituir ícones puramente abstratos por rótulos de texto explícitos nos botões para facilitar o uso por pessoas com pouca alfabetização digital.
-
-**Encaminhamentos:**
-O grupo validou os ajustes e programou para a Sprint 2 o polimento visual com foco em acessibilidade e a refatoração do algoritmo JavaScript para gerenciar melhor as pausas longas de voz.
-
----
-
-### Contato #4
-
-| Campo | Informação |
-| ------- | ----------- |
 | Data | 11/06/2026 |
 | Forma de contato | Presencial (Laboratório de Informática 6 da PUC Minas *campus* Poços de Caldas, MG) |
 | Participantes do grupo | Wagner Oliveira e Gabriel Araújo |
-| Participantes da comunidade | Corpo Docente, Coordenação e Representantes da Tarso de Coimbra |
+| Participantes da comunidade | Alunos e Representantes da Tarso de Coimbra |
 | Objetivo do contato | Entrega oficial do software VoxScript, oficina técnica de capacitação e homologação final. |
 
 **Resumo do que foi tratado:**
