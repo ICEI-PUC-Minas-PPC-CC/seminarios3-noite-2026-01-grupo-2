@@ -13,7 +13,7 @@
 | Disciplina | Seminários III |
 | Comunidade atendida | Tarso de Coimbra|
 | Software desenvolvido | VoxScript |
-| URL da aplicação: https://voxscript1.netlify.app/ | |
+| URL da aplicação | https://voxscript1.netlify.app/ |
 
 ## Cronograma de Desenvolvimento
 
