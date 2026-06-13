@@ -28,8 +28,8 @@
 | 10 | 23/04 à 29/04 | Testes e ajustes (Tripla Redundância) | Gabriel, Wagner | concluído |
 | 11 | 30/04 à 06/05 | Deploy / hospedagem na Vercel | Wagner | concluído |
 | 12 | 07/05 à 13/05 | Validação final com a comunidade | Gabriel | concluído |
-| 13 | 14/05 à 20/05 | **Entrega presencial** | Todos | iniciado |
-| 14 | 21/05 à 27/05 | Preenchimento dos relatórios APC | Todos | não iniciado |
+| 13 | 14/05 à 20/05 | **Entrega presencial** | Todos | concluído |
+| 14 | 21/05 à 27/05 | Preenchimento dos relatórios APC | Todos | concluído |
 
 > Ajuste o cronograma conforme o calendário do semestre e os feriados.
 
@@ -41,7 +41,7 @@
 | Requisitos definidos | 21/03/2026 | Documento `02-documento-requisitos.md` preenchido |
 | Protótipo aprovado | 21/03/2026 | Wireframes validados com a comunidade |
 | MVP funcional | 01/04/2026 | Funcionalidades mínimas operacionais (Voz e LIBRAS) |
-| Deploy realizado | 06/05/2026 | Aplicação acessível pela Internet (Vercel) |
+| Deploy realizado | 06/05/2026 | Aplicação acessível pela Internet (Netlify) |
 | Entrega presencial | 20/05/2026 | Software apresentado à comunidade |
 | Relatórios APC | 27/05/2026 | Relatório e autoavaliação preenchidos |
 
