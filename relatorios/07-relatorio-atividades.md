@@ -15,10 +15,10 @@
 
 | Data | Etapa | Descrição do que foi feito |
 | ------ | ------- | --------------------------- |
-| 10/02/2026 | Formação do grupo | Reunião inicial dos integrantes para alinhamento de competências, definição de papéis e escolha do escopo preliminar do projeto de extensão para a disciplina de Seminários III. |
-| 24/02/2026 | Contato inicial com a comunidade | Primeiro contato formal com a liderança da comunidade Tarso de Coimbra para apresentação das diretrizes acadêmicas da PUC Minas e verificação de abertura para cooperação tecnológica. |
-| 03/03/2026 | Levantamento de demandas | Entrevistas detalhadas com os colaboradores e lideranças da comunidade para identificar gargalos operacionais, necessidades tecnológicas e demandas de acessibilidade documental. |
-| 17/03/2026 | Definição de requisitos | Mapeamento e documentação dos requisitos funcionais (transcrição de voz, exportação de arquivos, comandos de edição) e não-funcionais (responsividade extrema, interface simplificada). |
+| 07/03/2026 | Formação do grupo | Reunião inicial dos integrantes para alinhamento de competências, definição de papéis e escolha do escopo preliminar do projeto de extensão para a disciplina de Seminários III. |
+| 07/03/2026 | Contato inicial com a comunidade | Primeiro contato formal com a liderança da comunidade Tarso de Coimbra para apresentação das diretrizes acadêmicas da PUC Minas e verificação de abertura para cooperação tecnológica. |
+| 07/03/2026 | Levantamento de demandas | Entrevistas detalhadas com os colaboradores e lideranças da comunidade para identificar gargalos operacionais, necessidades tecnológicas e demandas de acessibilidade documental. |
+| 21/03/2026 | Definição de requisitos | Mapeamento e documentação dos requisitos funcionais (transcrição de voz, exportação de arquivos, comandos de edição) e não-funcionais (responsividade extrema, interface simplificada). |
 | 31/03/2026 | Prototipação / wireframes | Elaboração de wireframes de média fidelidade para estruturar o fluxo de navegação do usuário e design de interface focado na usabilidade de pessoas com diferentes níveis de alfabetização digital. |
 | 01/04/2026 a 22/04/2026 | Desenvolvimento — Sprint 1 | Implementação da estrutura base em HTML5 e CSS3, configuração do repositório Git corporativo e codificação da integração primária com a Web Speech API para captura inicial de áudio. |
 | 28/04/2026 | Validação intermediária com a comunidade | Apresentação do protótipo funcional inicial para a equipe da comunidade Tarso de Coimbra, coletando feedbacks cruciais sobre tamanho das fontes, contraste e botões de comando. |
